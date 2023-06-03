@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>Unity WebGL Player | Estudos sobre movimento de personagem</title>
-    <link rel="shortcut icon" href="TemplateData/favicon.ico">
-    <link rel="stylesheet" href="TemplateData/style.css">
+    <link rel="shortcut icon" href="https://github.com/arkanael/Estudos-de-movimentos-de-jogos-2d-com-Unity/TemplateData/favicon.ico">
+    <link rel="stylesheet" href="https://github.com/arkanael/Estudos-de-movimentos-de-jogos-2d-com-Unity/TemplateData/style.css">
   </head>
   <body>
     <div id="unity-container" class="unity-desktop">
